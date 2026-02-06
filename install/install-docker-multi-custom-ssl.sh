@@ -12,7 +12,7 @@ NC='\033[0m' # No Color
 
 # Base Configuration
 INSTALL_BASE="/opt/openalgo"
-START_FLASK_PORT=5000
+START_FLASK_PORT=10000
 START_WS_PORT=8765
 
 # Script Banner
